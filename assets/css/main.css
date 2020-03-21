@@ -209,6 +209,7 @@
 
 	p {
 		margin: 0 0 1.5em 0;
+		font-size: 1.1em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -223,8 +224,8 @@
 		}
 
 	h1 {
-		font-size: 1.46em;
-		letter-spacing: 0.22em;
+		font-size: 1.7em;
+		letter-spacing: 0.18em;
 		margin: 0 0 0.525em 0;
 	}
 
